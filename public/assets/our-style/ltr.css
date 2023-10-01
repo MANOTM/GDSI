@@ -1,0 +1,15 @@
+.row-reverse{
+    flex-direction: row-reverse !important;
+}
+.text-align-end{
+    text-align: end !important;
+}
+.p_l0{
+    padding-left: 0 !important;
+}
+.flex-gap{
+    display: flex !important;
+    flex-direction: row-reverse;
+    gap: 9px;
+    margin-bottom: 10px !important;
+}

@@ -1,0 +1,32 @@
+.illustration{
+    width: 60% !important;
+}
+.my-title{
+    text-align: initial;
+    font-size: 3.4rem;
+    margin: 30px;
+    font-weight: 500;
+    position: relative;
+    top: 50px;
+}
+.my-bg{
+    background-color: #8ebfff !important;
+}
+.langue{
+    display: flex;
+    gap: 6px;
+    margin-top: 60px; 
+}
+.langue p{
+    color: #abb5ce;
+}
+.langue a{
+    opacity: .6;
+    color: #abb5ce;
+    font-size: 1rem;
+}
+.langue a.active{
+    font-weight: 700;
+    color: #505f86;
+    opacity: 1;
+}
